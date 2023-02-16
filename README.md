@@ -7,8 +7,11 @@ This is a note taking app that allows the user to input various notes and saves 
 - [Links](#Links)
 - [Username](#Username)
 ## Mock-up
-![alt infinite-disc website](/images/mainscreen-ss.png)
+![main screen](/images/main-ss.png)
+![notes](/images/note-ss.png)
+![grocery list](/images/grocery-ss.png)
 ## Links
-![]()
+- [Heroku Link](https://not3-tracker.herokuapp.com/)
+- [Github Link](https://github.com/melissarubiio/note-trackerr)
 ## Username
 GitHub Username: [melissarubiio](https://github.com/melissarubiio)
